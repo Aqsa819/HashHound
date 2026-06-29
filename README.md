@@ -1,3 +1,4 @@
+<img width="1048" height="690" alt="Screenshot 2026-06-29 125625" src="https://github.com/user-attachments/assets/05ce5c47-3f48-41b9-a9f2-cfb5b64ed82f" />
 # 🐕 HashHound
 
 **Password Hash Analyzer, Identifier & Cracker**
